@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "837968904020",
+    "firebase_url": "https://tunisolid-hackthon.firebaseio.com",
+    "project_id": "tunisolid-hackthon",
+    "storage_bucket": "tunisolid-hackthon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837968904020:android:cd680324c02d875dc952c1",
+        "android_client_info": {
+          "package_name": "com.example.tunisolid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837968904020-rr29u7i8mcin5b9knrmlqfu8r22gj47u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Csy1XihYbM2xN0vrkHUnDVelMaumTNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837968904020-rr29u7i8mcin5b9knrmlqfu8r22gj47u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
